@@ -1,4 +1,4 @@
-# Product-Localization-in-Real-World-Images-using-DINOv2-and-Mask-Based-Evaluation
+# Product Localization in Real World Images using DINOv2 and Mask Based Evaluation
 This project implements a product localization pipeline using DINOv2 embeddings to detect products in real-world images. The model identifies the approximate location of a product by comparing image features with reference images and generates bounding-box-based masks. The predictions are evaluated against ground-truth annotation masks.
 #  Product Localization using DINOv2
 
